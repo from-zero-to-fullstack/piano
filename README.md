@@ -4,13 +4,13 @@ From zero to FullStack - an unofficial course led by [Pedro Soares](https://gith
 
 # Introduction
 
-{Describe here the aim of this repository}
+A simple 🎹 made with HTML, CSS and JavaScript.
 
 # Technologies
 
-- [{technology-1-name}]({technology-1-official-documentation})
-- [{technology-2-name}]({technology-2-official-documentation})
-- [{technology-3-name}]({technology-3-official-documentation})
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.javascript.com)
 
 # Setup
 
@@ -25,13 +25,13 @@ Create and go to the directory where you want to place the repository
 Clone the project
 
 ```bash
-  git clone https://github.com/from-zero-to-fullstack/{change-this-with-repository-name}.git
+  git clone https://github.com/from-zero-to-fullstack/piano.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd {change-this-with-repository-name}
+  cd piano
 ```
 
 Open in Visual Studio Code
@@ -39,6 +39,11 @@ Open in Visual Studio Code
 ```bash
   code .
 ```
+
+Open html page in browser:
+- Expand `src` directory
+- Right click in `Index.html` file
+- Chose `Open with Live Server`
 
 # License
 
